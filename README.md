@@ -1,4 +1,4 @@
-# Padrao-Mediator
+Padrao-Mediator
 
 1) A classe Componente tem um atributo "mediador" que representa a referência ao objeto mediador ao qual o componente está registrado.
 2) A classe ExemploClasse é um exemplo genérico de uma classe componente que pode se registrar no mediador.
